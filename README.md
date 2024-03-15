@@ -33,8 +33,12 @@ import matplotlib.pyplot as plt
 ## Dataset
 In this lab, we use two array(x and y) to do the Neural Networks task.
 
-x: <img marginTop="20" width="785" alt="image" src="https://github.com/urltumanorb/Neural-Networks/assets/24932621/9952b28b-f029-4cfe-ba0a-c19e7c1167b4">
+x: 
 
-y: <img marginTop="20" width="145" alt="image" src="https://github.com/urltumanorb/Neural-Networks/assets/24932621/7b6b69c6-68b2-42aa-a939-dc7b45cea6c4">
+<img width="785" alt="image" src="https://github.com/urltumanorb/Neural-Networks/assets/24932621/9952b28b-f029-4cfe-ba0a-c19e7c1167b4">
+
+y: 
+
+<img width="145" alt="image" src="https://github.com/urltumanorb/Neural-Networks/assets/24932621/7b6b69c6-68b2-42aa-a939-dc7b45cea6c4">
 
 
