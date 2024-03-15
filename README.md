@@ -19,7 +19,9 @@ Python - It is a high-level, general-purpose language. It has concise and expres
 
 ### Packages
 numpy - It is the fundamental package for scientific computing with Python.
+
 matplotlib - It is a popular library to plot graphs in Python.
+
 tensorflow - It is a popular platform for machine learning.
 ```
 import numpy as np
